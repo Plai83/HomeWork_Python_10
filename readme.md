@@ -1,1 +1,1 @@
-## Данная программа переводит изначальный <span style="color:red">**DataFrame**</span> в **DataFrame** вида **OneHot**.
+## Данная программа переводит изначальный <font color=#FF0000>**DataFrame**</font> в **DataFrame** вида **OneHot**.
